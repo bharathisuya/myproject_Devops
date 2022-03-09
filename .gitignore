@@ -1,0 +1,5 @@
+#add names of the file, Dir that you dont want to track
+
+file1.txt
+#or *.txt all text file
+*.log
